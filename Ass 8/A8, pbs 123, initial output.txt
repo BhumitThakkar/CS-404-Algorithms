@@ -1,0 +1,31 @@
+ Formula 1, n = 2, k = 4: 
+ Checking for 4-clique in graph with n = 12 vertices...
+ This graph does NOT have a 4-clique.
+ Calling "evaluate"...This formula is NOT satisfied by this assignment!
+ 
+ Formula 2, n = 2, k = 3: 
+ Checking for 3-clique in graph with n = 9 vertices...
+ This graph DOES INDEED have a 3-clique:  2 4 7 
+ The satisfying assignment to the formula is:  
+ Assignment:  x_{1} = false, x_{2} = true
+ Calling "evaluate"...This forumla IS SATISFIED by this assignment:
+ 
+ Formula 3, n = 3, k = 3: 
+ Checking for 3-clique in graph with n = 9 vertices...
+ This graph DOES INDEED have a 3-clique:  1 5 8 
+ The satisfying assignment to the formula is:  
+ Assignment:  x_{1} = true, x_{2} = true, x_{3} = true
+ Calling "evaluate"...This forumla IS SATISFIED by this assignment:
+ 
+ Formula 4, n = 3, k = 8: 
+ Checking for 8-clique in graph with n = 24 vertices...
+ This graph does NOT have a 8-clique.
+ Calling "evaluate"...This formula is NOT satisfied by this assignment!
+ 
+ Formula 5, n = 5, k = 17: 
+ Checking for 17-clique in graph with n = 51 vertices...
+ This graph DOES INDEED have a 17-clique:  1 4 7 10 13 16 19 22 25 28 32 35 38 41 43 46 49 
+ The satisfying assignment to the formula is:  
+ Assignment:  x_{1} = false, x_{2} = true, x_{3} = false, x_{4} = false, x_{5} = true
+ Calling "evaluate"...This forumla IS SATISFIED by this assignment:
+ 

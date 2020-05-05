@@ -1,0 +1,54 @@
+ 
+  ----jGRASP exec: java CMM_SOLNS
+ 
+ Solutions
+ CS-404, Asst 4, Fall 2019 
+ 
+ 
+ Minimum Cost to multiply: 1232 multiplications.
+ 
+ Optimal Order:  (A_1((A_2A_3)A_4))
+ 
+ Maximum Cost to multiply: 10320 multiplications.
+ 
+ Worst Order:  (((A_1A_2)A_3)A_4)
+ 
+ ratio:   8.376623376623376
+ 
+ 
+ Minimum Cost to multiply: 348 multiplications.
+ 
+ Optimal Order:  (A_1((((A_2A_3)A_4)A_5)A_6))
+ 
+ Maximum Cost to multiply: 786 multiplications.
+ 
+ Worst Order:  ((((A_1A_2)A_3)A_4)(A_5A_6))
+ 
+ ratio:   2.2586206896551726
+ 
+ 
+ Minimum Cost to multiply: 1320 multiplications.
+ 
+ Optimal Order:  ((A_1(A_2(A_3A_4)))A_5)
+ 
+ Maximum Cost to multiply: 13200 multiplications.
+ 
+ Worst Order:  ((A_1(A_2A_3))(A_4A_5))
+ 
+ ratio:   10.0
+ 
+ 
+ Minimum Cost to multiply: 107133 multiplications.
+ 
+ Optimal Order:  ((((((A_1A_2)A_3)A_4)A_5)A_6)(A_7A_8))
+ 
+ Maximum Cost to multiply: 1516455 multiplications.
+ 
+ Worst Order:  (A_1(((A_2A_3)((A_4A_5)(A_6A_7)))A_8))
+ 
+ ratio:   14.154882249166924
+ 
+ 
+ 
+  ----jGRASP: operation complete.
+ 

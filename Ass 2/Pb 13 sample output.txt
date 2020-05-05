@@ -1,0 +1,41 @@
+ 
+  ----jGRASP exec: java Problem_13
+ 
+ Problem 13
+ Considering coins 1 ... 1
+ The counterfeit coin is coin # 1
+ 
+ 
+ Considering coins 1 ... 3
+ Which is heavier?:  coins (1 ... 1)  or coins  (2 ... 2)
+ Enter 1, 2, or 0:  0
+ Considering coins 3 ... 3
+ The counterfeit coin is coin # 3
+ 
+ 
+ Considering coins 1 ... 9
+ Which is heavier?:  coins (1 ... 3)  or coins  (4 ... 6)
+ Enter 1, 2, or 0:  2
+ Considering coins 4 ... 6
+ Which is heavier?:  coins (4 ... 4)  or coins  (5 ... 5)
+ Enter 1, 2, or 0:  1
+ Considering coins 4 ... 4
+ The counterfeit coin is coin # 4
+ 
+ 
+ Considering coins 1 ... 27
+ Which is heavier?:  coins (1 ... 9)  or coins  (10 ... 18)
+ Enter 1, 2, or 0:  2
+ Considering coins 10 ... 18
+ Which is heavier?:  coins (10 ... 12)  or coins  (13 ... 15)
+ Enter 1, 2, or 0:  0
+ Considering coins 16 ... 18
+ Which is heavier?:  coins (16 ... 16)  or coins  (17 ... 17)
+ Enter 1, 2, or 0:  0
+ Considering coins 18 ... 18
+ The counterfeit coin is coin # 18
+ 
+ 
+ 
+  ----jGRASP: operation complete.
+ 
